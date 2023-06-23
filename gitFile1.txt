@@ -3,5 +3,4 @@ This is my first git class
 Will be exiting now
 go
 
-Git revision from the start
-
+Git revision from the start!!!
