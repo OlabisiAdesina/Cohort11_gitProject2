@@ -1,5 +1,4 @@
-<<<<<<< HEAD
-fruits
+Fruits
 Apple
 Pineapple
 Melon
