@@ -1,7 +1,18 @@
-List fruits
+<<<<<<< HEAD
+fruits
+Apple
+Pineapple
+Melon
+Orange
+Pear
+Mango
 Joy
 Peace
 Gentleness
 Kindness
 Self control
 Patience
+
+
+
+
