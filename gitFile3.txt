@@ -1,0 +1,10 @@
+List of sports
+Badminton
+Swimming
+Basketball
+Soccer
+Rugby
+Football
+Volleyball
+Cricket
+Running
