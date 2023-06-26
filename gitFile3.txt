@@ -10,3 +10,6 @@ Cricket
 Running
 Hockey
 Tennis
+Bowling
+Judo
+Lawntennis
