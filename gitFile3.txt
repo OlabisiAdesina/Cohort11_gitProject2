@@ -8,3 +8,5 @@ Football
 Volleyball
 Cricket
 Running
+Hockey
+Tennis
